@@ -7,7 +7,6 @@ import '@/assets/bootstrap-icons/bootstrap-icons.css'
 import '@/assets/boxicons/css/boxicons.min.css'
 
 import '@/assets/fontawesome-free-5.15.1-web/fontawesome-free-5.15.1-web/css/all.css'
-import 'bootstrap/dist/css/bootstrap.css'
 
 
 createApp(App).use(store).use(router).mount('#app')
