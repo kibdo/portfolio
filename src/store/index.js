@@ -113,7 +113,7 @@ export default createStore({
         bioData: [
           {
             title: 'Age',
-            value: '22 years'
+            value: '23 years'
           },
           {
             title: 'Website',
