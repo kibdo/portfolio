@@ -111,9 +111,9 @@ export default createStore({
     ],
     adminInfo: {
       bioOutro:
-        "Growing up in the military environment has taught me the importance of orderliness, courage, punctuality and discipline.",
+        "Whether designing rural interventions or urban spaces, I aim to contribute to an architectural language that is both timeless and true to the African spirit.",
       bioIntro:
-        "I was born in the Nigerian Defence Academy, Kaduna state. I did my primary and secondary education in Kaduna state then I attended School of Basic and Remedial Studies Funtua where I started IJMB in the year 2016. I left in 2017 when I got Admission into the Federal University of Technology Minna in Niger State where I started studying Architecture before I transfered to Caleb University Lagos in the year 2020 because of ASUU strike.",
+        "<br />My work is driven by a passion for tradition, culture, and sustainability. I’m inspired by the likes of Francis Kéré—designing modern architecture that preserves and celebrates African identity.",
       bioData: [
         // {
         //   title: "Age",
@@ -148,6 +148,45 @@ export default createStore({
     portfolioProjects: [
       {
         id: 1,
+        title: "Proposed Caleb University Market",
+        imageSrc: "market-2.png",
+        client: "Caleb University",
+        url: "",
+        date: "",
+        location: "Imota, Lagos state",
+        description:
+          "This project is a design proposal for a campus market at Caleb University that also serves the surrounding community. It blends traditional Nigerian construction methods with modern design to create a contextually rich, sustainable space. Using local materials like earth blocks and timber, the market fosters natural ventilation, cultural relevance, and a stronger connection between the university and its environment.",
+        desc_title: "About Project",
+        category: 1,
+        productImages: [
+          {
+            id: 1,
+            url: "market-2.png",
+          },
+          {
+            id: 2,
+            url: "market-1.png",
+          },
+          {
+            id: 3,
+            url: "market-3.png",
+          },
+          {
+            id: 4,
+            url: "market-4.png",
+          },
+          {
+            id: 5,
+            url: "market-6.png",
+          },
+          {
+            id: 6,
+            url: "market-5.png",
+          },
+        ],
+      },
+      {
+        id: 2,
         title: "Proposed 3 Bedroom Bungalow Design for Mr. Joseph",
 
         imageSrc: "oga-naibi-3bedroom.png",
@@ -175,7 +214,7 @@ export default createStore({
         ],
       },
       {
-        id: 2,
+        id: 3,
         title: "Residential Housing Estate Design",
 
         imageSrc: "mr-abdullahi-cover-page.png",
@@ -215,7 +254,7 @@ export default createStore({
         ],
       },
       {
-        id: 3,
+        id: 4,
         title: "Proposed Sopping Center",
 
         imageSrc: "ndacsmcs-shopping-center.png",
@@ -247,7 +286,7 @@ export default createStore({
         ],
       },
       {
-        id: 4,
+        id: 5,
         title: "Proposed Mix-Use Building",
 
         imageSrc: "mix-use.png",
@@ -266,7 +305,7 @@ export default createStore({
         ],
       },
       {
-        id: 5,
+        id: 6,
         title: "Proposed 3 bedroom bungalow design for Mr. Garba Usman Musa",
 
         imageSrc: "uncle-gambo.jpg",
@@ -294,7 +333,7 @@ export default createStore({
         ],
       },
       {
-        id: 6,
+        id: 7,
         title:
           "Proposed Contemporary 3 bedroom bungalow design for Mr. Garba Usman Musa",
 
@@ -319,7 +358,7 @@ export default createStore({
         ],
       },
       {
-        id: 7,
+        id: 8,
         title:
           "Proposed 6 x 2 bedroom terrace apartment design for Cdr. IU Umoh",
 
@@ -350,7 +389,7 @@ export default createStore({
         ],
       },
       {
-        id: 8,
+        id: 9,
         title: "Akey Commercial Building",
 
         imageSrc: "akey.png",
@@ -384,7 +423,7 @@ export default createStore({
         ],
       },
       {
-        id: 9,
+        id: 10,
         title: "E-commerce website for Furniture Shop",
         url: "https://atiamu-furnitures.netlify.app/",
         imageSrc: "atiamu-furnitures.png",

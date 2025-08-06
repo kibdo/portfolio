@@ -1,13 +1,13 @@
 <template>
     <div>
-        <SectionIntro heading="About" description="My name is Umar Atiku Abubakar. I'm an Architect and a freelance software developer. I was Born in Kaduna state. I did my Primary education in Grays International School Kaduna from 2005-2010, My secondary Education at Command day secondary school Ribadu Cantoment Kaduna from 2010-2016 and My University education in the Federal University of Technology Minna where I studied Architecture from 2017-2020 then I transfered to Caleb University Lagos where I'm currently pursuing a BSc in Architecture."/>
+        <SectionIntro heading="About" description="My name is Umar Atiku Abubakar, a trained architect with a Master’s degree in Architecture from Caleb University, Lagos. Born and raised in Kaduna State, I began my architectural studies at the Federal University of Technology, Minna, before transferring to Caleb University in 2020, where I completed both my Bachelor’s and Master’s degrees."/>
         
         <div class="info-wrapper">
             <div data-animation-class="slideInFromLeft" class="animated dp-wrapper">
                 <img  class="border-2 border-gray-500" src="@/assets/images/avatar.png" alt="">
             </div>
             <div data-animation-class="slideInFromRight" class="animated main-wrapper">
-                <h1>Architect and a Freelance Software Developer</h1>
+                <h1>Architecture Career</h1>
                 <p class="main-intro">
                     {{ getIntro }}
                 </p>
