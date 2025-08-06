@@ -115,10 +115,10 @@ export default createStore({
       bioIntro:
         "I was born in the Nigerian Defence Academy, Kaduna state. I did my primary and secondary education in Kaduna state then I attended School of Basic and Remedial Studies Funtua where I started IJMB in the year 2016. I left in 2017 when I got Admission into the Federal University of Technology Minna in Niger State where I started studying Architecture before I transfered to Caleb University Lagos in the year 2020 because of ASUU strike.",
       bioData: [
-        {
-          title: "Age",
-          value: "23 years",
-        },
+        // {
+        //   title: "Age",
+        //   value: "23 years",
+        // },
         {
           title: "Website",
           value: "archdesigntips.com",
