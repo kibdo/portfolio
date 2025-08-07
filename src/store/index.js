@@ -161,27 +161,27 @@ export default createStore({
         productImages: [
           {
             id: 1,
-            url: "https://drive.google.com/uc?export=view&id=1XhIjxX3__tFmjX2nVAcU6w0eljnaYHAX",
+            url: "market-2.png",
           },
           {
             id: 2,
-            url: "https://drive.google.com/thumbnail?id=1DfwmxEpUFbvzOD92UOT2SV_-mzwtM94K",
+            url: "market-1.png",
           },
           {
             id: 3,
-            url: "https://drive.google.com/uc?export=view&id=1xm2TkDhN_PrSzSYl0hP4rt9_z7pkpJHB",
+            url: "market-3.png",
           },
           {
             id: 4,
-            url: "https://drive.google.com/uc?export=view&id=1yQ40UPizG6QR1yBjNKAp-vH_qv_zacmA",
+            url: "market-4.png",
           },
           {
             id: 5,
-            url: "https://drive.google.com/uc?export=view&id=1cOlnSZrzrJRbm6PqMwfwTetDHnVxuEMG",
+            url: "market-6.png",
           },
           {
             id: 6,
-            url: "https://drive.google.com/uc?export=view&id=1GWIt74zeTS3XB6-mQx-5McKn1klwwc4s",
+            url: "market-5.png",
           },
         ],
       },
